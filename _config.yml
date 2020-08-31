@@ -25,7 +25,7 @@ author:
   email: dennis@klicker.us #optional
   website: https://klick.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  @thismyrealone's photos
+  just a website for Dennis Klicker's photos
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://klickpics.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thismyrealone
